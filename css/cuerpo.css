@@ -1,0 +1,54 @@
+main {
+    padding: 20px;
+    width: 1250px;
+    height: auto;
+}
+
+.TituloSecundario {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fc0505;
+    text-align: center;
+    border: #ff7700 2px double;
+    border-radius: 50px;
+    font-weight: bolder;
+}
+
+.TituloTres {
+    font-size: 25px; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold; 
+    color: #ff007f; 
+    text-decoration: underline; 
+    justify-content: center;
+    text-align: center;
+}
+
+
+.textoCarrera{
+    color: #08011a;
+} 
+
+.textocursos {
+    color: #ff9100;
+}
+
+.SubTituloCursos{
+    color: #fc0505;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SubTituloCarrera {
+    font-variant: small-caps;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: #f58cc1;
+    font-weight: bold;
+}
+
+.textoCarrera, .textocursos {
+    text-align: justify;
+}
+
